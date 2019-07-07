@@ -1,2 +1,4 @@
-# Fundamental_Statistics_Using_MATLAB
-This project not only detects the number plate of a vehicle, but it also tries to read it and provide the license number of the vehicle as a string output and even exports it as a text document. The program also provides an image of region of interest to the user. The project uses MATLAB 2016a in order to edit and compile the program. The built-in image processing module is used for this purpose.
+# Fundamental Statistics Using MATLAB
+This project was developed so as to play and twak with ststical functions using MATLAB. It can be used to teach the fundamentals of numerical statistics or can be modified for specific applications. 
+
+The program generates random integer dataset and exports it as CSV or XLSX file types. It then imports the data from either of the files and computes the measures of central tendency and measures of dispersion. It also plots one column of the dataset matrix against the other for convinient visualization. The project uses MATLAB 2018a in order to edit and compile the program. The built-in Statistics and Machine Learning Toolbox was used for this purpose.
